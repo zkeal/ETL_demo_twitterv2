@@ -1,0 +1,6 @@
+textblob
+Flask
+requests
+pyecharts
+nltk
+scikit-learn
